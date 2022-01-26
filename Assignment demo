@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Coursera html & css</title>
+</head>
+<body>
+    <h6>Hello Anusha!</h6>
+    <p>Congratulations on your successful enrollment!</p><br>
+    <p>We hope you are geared up and excited for your HTML & CSS Zero to Hero</p>
+
+    <!----forms-->
+    <h3>SIGNING FORM TO REGISTER COURSERA</h3>
+    <form >
+        <input text="text" placeholder="First name"><br>
+        <input text="text" placeholder="Last name"><br>
+        <input type="text" placeholder="user name"><br>
+        <label for="Date of Brith"></label>
+        <input type="date" name="dob" id="dob"><br>
+        <label for="pwd">password</label>
+        <input type="password"><br>
+        <input type="submit">
+    </form>
+    <form action=""></form>
+</body>
+</html>
